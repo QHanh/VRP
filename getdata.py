@@ -2,7 +2,7 @@ import requests
 import numpy as np
 import json
 
-url = "https://api.geoapify.com/v1/routematrix?apiKey=ad2c3b02ebaf4ca493709433334288eb"
+url = "https://api.geoapify.com/v1/routematrix?apiKey="your_api_key""
 
 headers = {"Content-Type": "application/json"}
 
