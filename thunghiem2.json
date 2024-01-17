@@ -1,0 +1,23 @@
+{ 
+    "coordinates": [
+        {"location": [105.778827, 21.028199], "comment": "0 - Bến xe Mỹ Đình"},
+        {"location": [105.862981, 20.992273], "comment": "1 - Lĩnh Nam - Xe 5 chỗ"},
+        {"location": [105.840965, 20.971757], "comment": "2 - Giải Phóng - Xe 7 chỗ"},
+        {"location": [105.820838, 21.003571], "comment": "3 - Ngã Tư Sở - Xe 10 chỗ"},
+        {"location": [105.797656, 20.987635], "comment": "4 - Văn Quán - 2 khách"},
+        {"location": [105.815278, 21.038563], "comment": "5 - Văn Cao - 2 khách"},
+        {"location": [105.847116, 20.988512], "comment": "6 - Trương Định - 1 khách"},
+        {"location": [105.848317, 21.008464], "comment": "7 - Đại Cồ Việt - 1 khách"},
+        {"location": [105.841150, 20.983939], "comment": "8 - Giáp Bát - 2 khách"},
+        {"location": [105.832763, 21.019356], "comment": "9 - Khâm Thiên - 2 khách"},
+        {"location": [105.875300, 20.983375], "comment": "10 - Lĩnh Nam - 3 khách"},
+        {"location": [105.900846, 21.068590], "comment": "11 - Ngô Gia Tự - 3 khách"},
+        {"location": [105.826671, 21.068112], "comment": "12 - Âu Cơ - 2 khách"},
+        {"location": [105.797062, 21.089141], "comment": "13 - An Dương Vương - 2 khách"}
+    ], 
+    "demands": [0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 3, 3, 2, 2],
+    "num_vehicles": 3,
+    "vehicle_capacities": [5, 7, 10],
+    "starts": [1, 2, 3],
+    "ends": [0, 0, 0]
+}

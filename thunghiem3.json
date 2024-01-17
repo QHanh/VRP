@@ -1,0 +1,26 @@
+{
+    "time_now": "8:30",
+    "coordinates": [
+        {"location": [105.778827, 21.028199], "comment": "0 - Bến xe Mỹ Đình - Hub"},
+        {"location": [105.797656, 20.987635], "comment": "4 - Văn Quán - 2 khách"},
+        {"location": [105.815278, 21.038563], "comment": "5 - Văn Cao - 2 khách"},
+        {"location": [105.847116, 20.988512], "comment": "6 - Trương Định - 1 khách"},
+        {"location": [105.848317, 21.008464], "comment": "7 - Đại Cồ Việt - 1 khách"},
+        {"location": [105.841150, 20.983939], "comment": "8 - Giáp Bát - 2 khách"},
+        {"location": [105.832763, 21.019356], "comment": "9 - Khâm Thiên - 2 khách"}
+    ],
+    "time_windows": [
+        {"time": [0, 5], "comment": "Hub"},
+        {"time": [0, 900], "comment": "Văn Quán"},
+        {"time": [600, 1200], "comment": "Văn Cao"},
+        {"time": [300, 1800], "comment": "Trương Định"},
+        {"time": [900, 1800], "comment": "Đại Cồ Việt"},
+        {"time": [0, 900], "comment": "Giáp Bát"},
+        {"time": [900, 2400], "comment": "Khâm Thiên"}
+    ],
+    "demands": [0, 2, 2, 1, 1, 2, 2],
+    "num_vehicles": 2,
+    "vehicle_capacities": [5, 7],
+    "starts": [0, 0],
+    "ends": [0, 0]
+}
